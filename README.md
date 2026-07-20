@@ -1,16 +1,19 @@
-# Data Science Learning Journey 🚀
+# 📊 Data Science Learning Journey
 
-This repository contains my hands-on practice while learning Data Science and AI/ML.
+This repository contains my hands-on practice while learning **Data Science, Machine Learning, and AI**.
 
-## Topics
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- Machine Learning
-- Deep Learning
-- Projects
+## 📚 Learning Progress
 
-I will update this repository regularly as I learn.
+- [x] Python
+- [x] NumPy
+- [ ] Pandas
+- [ ] Matplotlib
+- [ ] Seaborn
+- [ ] Scikit-Learn
+- [ ] Machine Learning
+- [ ] Deep Learning
+- [ ] Projects
+
+## 🎯 Goal
+
+I will keep updating this repository regularly as I learn new concepts, complete practice exercises, and build projects.
