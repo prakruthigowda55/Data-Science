@@ -7,7 +7,7 @@ This repository contains my hands-on practice while learning **Data Science, Mac
 - [x] Python
 - [x] NumPy
 - [x] Pandas
-- [ ] Matplotlib
+- [x] Matplotlib
 - [ ] Seaborn
 - [ ] Scikit-Learn
 - [ ] Machine Learning
